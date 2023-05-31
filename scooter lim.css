@@ -1,0 +1,86 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.contenitore {
+    width: 1000px;
+    margin: auto;
+    margin-top: 30px;
+    left: 0;
+    right: 0;
+    border-radius: 15px;
+    background-color: rgb(0,0,0,0.5);  
+    padding: 5px; 
+    padding-bottom: 80px;
+}
+
+#logo {
+    width: 400px;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.title {
+    color:  #16cb16;
+    text-align: center;
+}
+.navigator {
+    padding: 1%;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color:  #16cb16;
+    text-align: center;
+}
+.bottone {
+    margin-bottom: 2px; 
+}
+.titolino {
+    color: white;
+    margin-left: 70px;
+}
+span {
+    margin: 0;
+    font-size: 16px;
+}
+p {
+    margin: 0;
+}
+h2 {
+    margin-bottom: 0;
+}
+.robe {
+    height: 27px;
+    left: 0;
+    right: 0;
+    border-radius: 3px;
+    background-color:rgb(237, 181, 75) ;  
+    margin-right: 600px;
+}
+.robe1 {
+    height: 27px;
+    left: 0;
+    right: 0;
+    border-radius: 3px;
+    background-color:#16cb16 ;  
+    margin-right: 500px;
+}
+.robe2 {
+    height: 27px;
+    left: 0;
+    right: 0;
+    border-radius: 3px;
+    background-color: rgb(205, 72, 72) ;  
+    margin-right: 800px;
+}
